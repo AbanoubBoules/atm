@@ -1,0 +1,23 @@
+﻿  atm 2.cpp
+E:\ارشيف الفلاشة\atm final 2\atm 2\atm 2.cpp(178,17): warning C4018: '<': signed/unsigned mismatch
+E:\ارشيف الفلاشة\atm final 2\atm 2\atm 2.cpp(204,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\ارشيف الفلاشة\atm final 2\atm 2\atm 2.cpp(219,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\ارشيف الفلاشة\atm final 2\atm 2\atm 2.cpp(230,25): warning C4018: '<': signed/unsigned mismatch
+E:\ارشيف الفلاشة\atm final 2\atm 2\atm 2.cpp(239,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\ارشيف الفلاشة\atm final 2\atm 2\atm 2.cpp(248,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\ارشيف الفلاشة\atm final 2\atm 2\atm 2.cpp(266,43): warning C4018: '>': signed/unsigned mismatch
+E:\ارشيف الفلاشة\atm final 2\atm 2\atm 2.cpp(294,21): warning C4018: '<': signed/unsigned mismatch
+E:\ارشيف الفلاشة\atm final 2\atm 2\atm 2.cpp(302,24): warning C4018: '<': signed/unsigned mismatch
+E:\ارشيف الفلاشة\atm final 2\atm 2\atm 2.cpp(327,16): warning C4018: '<': signed/unsigned mismatch
+E:\ارشيف الفلاشة\atm final 2\atm 2\atm 2.cpp(342,32): warning C4018: '<': signed/unsigned mismatch
+E:\ارشيف الفلاشة\atm final 2\atm 2\atm 2.cpp(344,33): warning C4018: '<': signed/unsigned mismatch
+E:\ارشيف الفلاشة\atm final 2\atm 2\atm 2.cpp(361,29): warning C4018: '<': signed/unsigned mismatch
+E:\ارشيف الفلاشة\atm final 2\atm 2\atm 2.cpp(365,31): warning C4018: '<': signed/unsigned mismatch
+E:\ارشيف الفلاشة\atm final 2\atm 2\atm 2.cpp(413,22): warning C4018: '<': signed/unsigned mismatch
+E:\ارشيف الفلاشة\atm final 2\atm 2\atm 2.cpp(434,32): warning C4018: '<': signed/unsigned mismatch
+E:\ارشيف الفلاشة\atm final 2\atm 2\atm 2.cpp(451,32): warning C4018: '<': signed/unsigned mismatch
+E:\ارشيف الفلاشة\atm final 2\atm 2\atm 2.cpp(474,25): warning C4018: '<': signed/unsigned mismatch
+E:\ارشيف الفلاشة\atm final 2\atm 2\atm 2.cpp(482,28): warning C4018: '<': signed/unsigned mismatch
+E:\ارشيف الفلاشة\atm final 2\atm 2\atm 2.cpp(150,10): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\ارشيف الفلاشة\atm final 2\atm 2\atm 2.cpp(151,16): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  atm 2.vcxproj -> E:\ارشيف الفلاشة\atm final 2\Debug\atm 2.exe

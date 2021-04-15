@@ -1,0 +1,55 @@
+abdo
+22899
+4750
+abdo  withdraw  10  19  4  2019
+abdo  withdraw  20  19  4  2019
+abdo  withdraw  540  19  4  2019
+abdo  deposit  540  19  4  2019
+abdo  withdraw  30  19  4  2019
+abdo  deposit  560  19  4  2019
+abdo  withdraw  450  22  4  2019
+abdo  withdraw  50  22  4  2019
+abdo  withdraw  50  22  4  2019
+abdo  deposit  500  22  4  2019
+abdo  withdraw  100  22  4  2019
+abdo  withdraw  50  27  4  2019
+abdo  deposit  350  27  4  2019
+abdo  send_to  4458  30  4  2019
+abdo  deposit  500  30  4  2019
+abdo  send_to  250  30  4  2019
+
+
+
+walid
+91297
+5250
+walid  deposit  750  19  4  2019
+walid  withdraw  760  19  4  2019
+walid  deposit  500  19  4  2019
+walid  withdraw  40  19  4  2019
+walid  withdraw  250  19  4  2019
+walid  deposit  500  22  4  2019
+walid  withdraw  600  22  4  2019
+walid  withdraw  40  22  4  2019
+walid  send_to  500  30  4  2019
+walid  Recieve_from  250  30  4  2019
+
+
+
+ebrahim
+101096
+3437
+ebrahim  deposit  750  19  4  2019
+ebrahim  withdraw  540  19  4  2019
+ebrahim  withdraw  123  19  4  2019
+ebrahim  withdraw  50  22  4  2019
+
+
+
+a
+123
+600
+a  deposit  500  14  4  2021
+
+
+
